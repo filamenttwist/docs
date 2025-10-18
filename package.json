@@ -1,0 +1,35 @@
+{
+  "name": "filament-twist-docs",
+  "version": "1.0.0",
+  "description": "Documentation for Filament Twist - Modular Filament Platform",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview",
+    "docs:serve": "vitepress serve",
+    "lint": "markdownlint docs/**/*.md --fix",
+    "build": "npm run docs:build"
+  },
+  "keywords": [
+    "filament",
+    "laravel",
+    "addon",
+    "multi-tenancy",
+    "documentation"
+  ],
+  "author": "Filament Twist",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "markdownlint-cli": "^0.41.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filamenttwist/twist.git",
+    "directory": "docs"
+  },
+  "bugs": {
+    "url": "https://github.com/filamenttwist/twist/issues"
+  },
+  "homepage": "https://github.com/filamenttwist/twist#readme"
+}
