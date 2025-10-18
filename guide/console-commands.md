@@ -362,6 +362,5 @@ php artisan tinker
 
 ## Next Steps
 
-- [Configure panels](./panel-configuration)
-- [API reference](../api/commands)
-- [Deployment guide](./deployment)
+- [Configure panels](./panel-configuration.md)
+- [API reference](../api/twist-class.md)

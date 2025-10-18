@@ -490,6 +490,5 @@ class BlogManagementAddon extends BaseAddon implements
 
 ## Next Steps
 
-- [Learn about BaseAddon](./base-addon)
-- [Explore Tenancy API](./tenancy)
-- [View Command Reference](./commands)
+- [Learn about TwistClass](./twist-class.md)
+- [View Console Commands](../guide/console-commands.md)

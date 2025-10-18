@@ -339,6 +339,5 @@ class SetTenantContext
 
 ## Next Steps
 
-- [Explore console commands](./console-commands)
-- [Configure panels](./panel-configuration)
-- [API reference](../api/tenancy)
+- [Explore console commands](./console-commands.md)
+- [Configure panels](./panel-configuration.md)

@@ -444,6 +444,5 @@ class CustomerPanelProvider extends TwistPanelProvider
 
 ## Next Steps
 
-- [API reference](../api/panel-configuration)
-- [Deployment guide](./deployment)
-- [Advanced customization](./advanced-customization)
+- [API reference](../api/twist-class.md)
+- [Configuration reference](./configuration.md)

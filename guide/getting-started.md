@@ -103,7 +103,7 @@ public function boot()
 
 ## Next Steps
 
-- [Create your first addon](./creating-addons)
-- [Learn about multi-tenancy](./multi-tenancy)
-- [Explore console commands](./console-commands)
-- [Configure your panels](./panel-configuration)
+- [Create your first addon](./creating-addons.md)
+- [Learn about multi-tenancy](./multi-tenancy.md)
+- [Explore console commands](./console-commands.md)
+- [Configure your panels](./panel-configuration.md)

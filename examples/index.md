@@ -738,6 +738,5 @@ class AddonTest extends TestCase
 
 ## Next Steps
 
-- [Learn about Configuration](./configuration)
-- [Explore Advanced Features](./advanced-features)
-- [See Deployment Guide](./deployment)
+- [Learn about Configuration](../guide/configuration.md)
+- [View API Reference](../api/twist-class.md)

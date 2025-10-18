@@ -242,6 +242,6 @@ php artisan twist:setup:clear
 
 ## Next Steps
 
-- [Learn about multi-tenancy](./multi-tenancy)
-- [Explore console commands](./console-commands)
-- [Configure panels](./panel-configuration)
+- [Learn about multi-tenancy](./multi-tenancy.md)
+- [Explore console commands](./console-commands.md)
+- [Configure panels](./panel-configuration.md)

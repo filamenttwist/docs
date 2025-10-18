@@ -598,6 +598,5 @@ protected function configureRateLimiting(): void
 
 ## Next Steps
 
-- [Deployment Guide](./deployment)
-- [Advanced Customization](./advanced-customization)
-- [Troubleshooting](./troubleshooting)
+- [Panel Configuration](./panel-configuration.md)
+- [Examples](../examples/index.md)
