@@ -4,8 +4,16 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Filament Twist Docs",
   description: "Modular Filament Platform with Addon Architecture and Multi-Tenancy",
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.svg' }],
+    ['meta', { name: 'theme-color', content: '#FC4706' }],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: {
+      light: '/logo.svg',
+      dark: '/logo-dark.svg'
+    },
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/getting-started' },

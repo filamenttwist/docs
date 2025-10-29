@@ -6,6 +6,9 @@ hero:
   name: "Filament Twist"
   text: "Modular Filament Platform"
   tagline: Build scalable, multi-tenant Filament applications with an addon architecture
+  image:
+    src: /logo.svg
+    alt: Filament Twist Logo
   actions:
     - theme: brand
       text: Get Started
