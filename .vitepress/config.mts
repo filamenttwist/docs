@@ -43,6 +43,20 @@ export default defineConfig({
         text: 'API Reference',
         items: [
           { text: 'TwistClass', link: '/api/twist-class' },
+          { 
+            text: 'Base Classes',
+            collapsed: false,
+            items: [
+              { text: 'Overview', link: '/api/base/' },
+              { text: 'BaseAddon', link: '/api/base/base-addon' },
+              { text: 'BaseModel', link: '/api/base/base-model' },
+              { text: 'BaseMigration', link: '/api/base/base-migration' },
+              { text: 'BaseService', link: '/api/base/base-service' },
+              { text: 'BaseAction', link: '/api/base/base-action' },
+              { text: 'BaseDTO', link: '/api/base/base-dto' },
+              { text: 'BaseSettingsPage', link: '/api/base/base-settings-page' }
+            ]
+          },
           { text: 'Addon Interfaces', link: '/api/addon-interfaces' }
         ]
       }
